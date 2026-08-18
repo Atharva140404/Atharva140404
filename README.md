@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./atharva-detailed-terminal-portrait.svg" width="600"/>
+<img src="./atharva-detailed-terminal-portrait.svg" width="380"/>
 
 <br><br>
 
